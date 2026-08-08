@@ -1,0 +1,14 @@
+feat: add two branches, real contacts, WhatsApp & CSV product loader
+
+- Added Hyderabad (8121000263) and Vijayawada (9848413999) branches
+- Dedicated Branches section with maps, call/WhatsApp/directions buttons
+- WhatsApp enabled only for Hyderabad branch (8121000263)
+- Contact section now has branch tab switcher (HYD | VJA)
+- Products loaded dynamically from products.csv with category filters
+- Custom CSV upload button to replace products without touching code
+- Fallback product list if CSV unavailable (file:// protocol)
+- Updated topbar with both branch phone numbers
+- Updated footer with separate columns for each branch
+- Updated stats: 29 combined reviews, 2 branch locations
+
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
